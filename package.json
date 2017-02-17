@@ -19,7 +19,7 @@
     "hapi": "^16.1.0",
     "jade": "^1.9.2",
     "node-sass": "^4.3.0",
-    "xhr": "^2.0.1"
+    "xhr": "^2.4.0"
   },
   "devDependencies": {
     "code": "^4.0.0",
